@@ -1,12 +1,8 @@
-# Как перестать выбирать фреймворки и начать жить
+# How to stop choosing JavaScript frameworks and start living
 
-Представьте, что перед вами стоит задача повесить полку. Как вы её будете решать? Можно сразу взяться за любимый инструмент: молоток и гвозди. Если вы Senior MolotokJS Developer, то сможете молотком забить не только гвозди, но и шурупы. А можно выделить время на исследование, нужна ли вам вообще полка.
+Imagine, you have a task to hang a picture on the wall. What would you do first? You can start by picking up your favorite tool. Let's say, a hammer. If you're a Senior HammerJS Developer, you could probably use a hammer for screws as well as for nails. Or you could spend some time researching if you need that picture on that particular wall in the beginning.
 
-Так и во фронтенде. Фреймворк — всего лишь инструмент. Как у любого инструмента, у него есть задачи, для решения которых он был создан. В своем докладе я поделюсь, на что следует опираться при выборе подходящего инструмента и как перестать тратить на это время команды и деньги бизнеса.
-
-
-## Что еще посмотреть по теме
-TBD
+The same goes for the frontend development. JavaScript framework is just a tool that helps us to build applications. And like any other tool, it has its purpose and the list of tasks it's good for. So why is it so hard to choose the right one for a new project? In the talk, Sasha is going to share her experience on how to choose the best tools for your projects and what important things you have to decide before you start looking at your options.
 
 ## How to launch slides
 ### 1. View the presentation
